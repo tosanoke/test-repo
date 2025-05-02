@@ -12,6 +12,8 @@ to try out. Enjoy it :)
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 You can use it for pretty much whatever.
 
+Added this line for tests.
+
 (* = not included)
 
 AJ
