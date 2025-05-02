@@ -13,6 +13,7 @@ Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
 You can use it for pretty much whatever.
 
 Added this line for tests.
+Added this other line for tests.
 
 (* = not included)
 
